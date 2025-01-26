@@ -12,6 +12,7 @@ If you find this repository helpful, please cite the following:
 ## 🥳 News 
 
 **Stay tuned! More related work will be updated!**
+* **[26 Jan, 2025]** We update work related to two reasoning LLMs: Kimi-k1.5 and DeepSeek-R1.
 * **[24 Jan, 2025]** The repository is created. 
 * **[20 Jan, 2025]** We release the first version of the paper.
 

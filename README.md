@@ -26,19 +26,12 @@ If you find this repository helpful, please cite the following:
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Recent Efforts in Reproducing OpenAI o1](#recent-efforts-in-reproducing-openai-o1)
-    - [Related Papers](#related-papers)
   - [Datasets](#datasets)
-    - [Related Papers](#related-papers-1)
   - [Training](#training)
-    - [Related Papers](#related-papers-2)
   - [Inference](#inference)
-    - [Related Papers](#related-papers-3)
   - [Evaluation](#evaluation)
-    - [Related Papers](#related-papers-4)
   - [Analysis of Reasoning LLMs](#analysis-of-reasoning-llms)
-    - [Related Papers](#related-papers-5)
   - [Multi-modal Reasoning LLMs](#multi-modal-reasoning-llms)
-    - [Related Papers](#related-papers-6)
 
 
 

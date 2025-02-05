@@ -2,9 +2,15 @@
 
 
 
-This repository contains resources referenced in the paper [Unlocking the Mysteries of OpenAI o1: A Survey of the Reasoning Abilities of Large Language Models](https://openreview.net/pdf/893aca5e4e6ee8109c7e6c341856e5dfc2c7a12b.pdf). 
+This repository contains resources referenced in the paper [Unlocking the Mysteries of OpenAI o1: A Survey of the Reasoning Abilities of Large Language Models](https://openreview.net/pdf?id=J0ADLa2rNp). 
 
 If you find this repository helpful, please cite the following:
+```latex
+@article{wangunlocking,
+  title={Unlocking the Mysteries of OpenAI o1: A Survey of the Reasoning Abilities of Large Language Models},
+  author={Wang, Guoyin and Zhang, Shengyu and Zhan, Tianyu and Shen, Zhouzhou and Li, Jiwei and Hu, Xueyu and Sun, Xiaofei and Wu, Fei and Deng, Gelei and Zhang, Jie and others}
+}
+```
 
 
 
